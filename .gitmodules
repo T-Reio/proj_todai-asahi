@@ -1,3 +1,3 @@
-[submodule "data_todai-asahi"]
-	path = data_todai-asahi
-	url = https://github.com/iheus/data_todai-asahi
+[submodule "build code/data todai-asahi"]
+	path = build code/data todai-asahi
+	url = https://github.com/T-Reio/data_todai-asahi
